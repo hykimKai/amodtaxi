@@ -42,7 +42,7 @@
 	<repositories>
 		<repository>
 			<id>amodeus-mvn-repo</id>
-			<url>https://raw.github.com/amodeus-science/amodeus/mvn-repo/</url>
+			<url>https://raw.github.com/hykimKai/amodeus/</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
@@ -50,7 +50,7 @@
 		</repository>
 		<repository>
 			<id>pt2matsim</id>
-			<url>http://dl.bintray.com/polettif/matsim</url>
+			<url>https://repo.matsim.org/repository/matsim</url>
 		</repository>
 		<!-- should in the future be handled by amodeus -->
 		<repository>
